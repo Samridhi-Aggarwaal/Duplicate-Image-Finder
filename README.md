@@ -5,22 +5,22 @@ This application is a graphical tool built using Python and Tkinter to find dupl
 
 Key Features
 
-  Image Hashing: Uses dhash (difference hash) technique to quickly identify duplicate or visually similar images.
+  - Image Hashing: Uses dhash (difference hash) technique to quickly identify duplicate or visually similar images.
 
-  GUI Interface: Simple Tkinter-based GUI for easy navigation and functionality.
+  - GUI Interface: Simple Tkinter-based GUI for easy navigation and functionality.
   
-  Excel Export: Allows users to save results in an Excel file with timestamped filenames for record-keeping.
+  - Excel Export: Allows users to save results in an Excel file with timestamped filenames for record-keeping.
   
-  File Compatibility: Supports multiple image formats including .jpg, .jpeg, .png, .gif, .bmp, .tiff, .ico, and .jfif.
+  - File Compatibility: Supports multiple image formats including .jpg, .jpeg, .png, .gif, .bmp, .tiff, .ico, and .jfif.
   
-  Visual Display: Lists identified duplicates in a Treeview table for easy viewing.
+  - Visual Display: Lists identified duplicates in a Treeview table for easy viewing.
 
 
 Requirements
 
-  Software: Python 3.x
+  - Software: Python 3.x
 
-  Modules: imagehash, Pillow (PIL), openpyxl, Tkinter
+  - Modules: imagehash, Pillow (PIL), openpyxl, Tkinter
 
 
 The Duplicate Image Finder is particularly useful for photographers, content creators, and anyone managing large image collections, enabling them to maintain an organized library by identifying and managing duplicate images efficiently.
