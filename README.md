@@ -26,7 +26,7 @@ Requirements
 
   - Software: Python 3.x
 
-  - Modules: imagehash, Pillow (PIL), openpyxl, Tkinter
+  - Modules: Imagehash, Pillow (PIL), Openpyxl, Tkinter, Collections, Datetime
 
 
 The Duplicate Image Finder is particularly useful for photographers, content creators, and anyone managing large image collections, enabling them to maintain an organized library by identifying and managing duplicate images efficiently.
