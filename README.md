@@ -1,6 +1,12 @@
 # Duplicate-Image-Finder
 
-This application is a graphical tool built using Python and Tkinter to find duplicate images in a folder based on image hash matching. The app allows users to select a folder and an individual image to search for duplicates or visually similar images. It supports a variety of image formats and provides an easy-to-use interface to browse folders and files.
+The Duplicate Image Finder application is designed to assist users in identifying and managing duplicate images within a specified folder. The application can handle certain file types like JPG, JPEG, PNG, GIF, BMP, TIFF, ICO or JFIF. It has been created using Python programming language and the tkinter library for the graphic user interface (GUI). It allows users to 
+1.	Select a target folder.
+2.	choose a single image for comparison.
+3.	find duplicates of selected image within the specified folder.
+4.	display the duplicate images found in a user-friendly format.
+5.	save the results in an excel file.
+
 
 
 Key Features
